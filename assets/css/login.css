@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffc107; /* Warna latar belakang */
+  }
+  
+  .form-signin {
+    max-width: 330px;
+    width: 100%;
+    padding: 1rem;
+    text-align: center; /* Menyelaraskan teks ke tengah */
+  }
+  
+  .form-signin i {
+    font-size: 4rem; /* Sesuaikan ukuran logo */
+    margin-bottom: 1rem; /* Memberikan jarak antara logo dan teks */
+  }
+  
+  .form-signin h1 {
+    margin-bottom: 2rem;
+  }
+  
